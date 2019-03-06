@@ -1,7 +1,5 @@
-Use mamp
-
 # Css and PHP files
 
-## First install
+## Each time
 
 Lancer mamp et amusez-vous bien !
